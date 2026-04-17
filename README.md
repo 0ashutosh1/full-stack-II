@@ -1,16 +1,19 @@
-# React + Vite
+# Full Stack-II
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository is for my Full Stack-II coursework. It will contain the experiments I push for the subject, starting with Experiment 1.
 
-Currently, two official plugins are available:
+## Current experiment
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- `exp1`: React + Vite application
 
-## React Compiler
+## Run locally
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+```bash
+npm install
+npm run dev
+```
 
-## Expanding the ESLint configuration
+## Notes
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- The GitHub repository name is `full-stack-2` so it is easy to share.
+- Each experiment can be added here as a separate folder or project push.
