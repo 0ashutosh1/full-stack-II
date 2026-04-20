@@ -1,0 +1,11 @@
+.app-container {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+/* Responsive utilities */
+@media (max-width: 600px) {
+  .app-container {
+    padding: 16px;
+  }
+}
