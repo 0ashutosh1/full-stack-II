@@ -2,6 +2,8 @@
 
 This repository contains my Full Stack-II (23CSH-382) experiments.
 
+Canonical sequence reference: [00_EXPERIMENT_SERIES.md](00_EXPERIMENT_SERIES.md)
+
 ## Experiment Series (Course Order)
 
 1. `exp1`
