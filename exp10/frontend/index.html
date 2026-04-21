@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>EXP10 DevOps Frontend</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="layout">
+      <h1>EXP10: Deployment and DevOps</h1>
+      <p class="subtitle">Role-based authorization client with Docker/PM2 workflow.</p>
+
+      <section class="panel">
+        <h2>API Settings</h2>
+        <label>Backend URL</label>
+        <input id="apiBase" value="http://localhost:5000" />
+      </section>
+
+      <section class="panel">
+        <h2>Login</h2>
+        <div class="grid">
+          <button class="cred" data-user="admin" data-pass="admin123">Use admin</button>
+          <button class="cred" data-user="editor" data-pass="editor123">Use editor</button>
+          <button class="cred" data-user="viewer" data-pass="viewer123">Use viewer</button>
+        </div>
+        <label>Username</label>
+        <input id="username" placeholder="admin" />
+        <label>Password</label>
+        <input id="password" type="password" placeholder="admin123" />
+        <button id="loginBtn">Login</button>
+      </section>
+
+      <section class="panel">
+        <h2>Role-Based Endpoints</h2>
+        <div class="grid">
+          <button data-endpoint="/api/access/admin" class="callBtn">Call Admin</button>
+          <button data-endpoint="/api/access/editor" class="callBtn">Call Editor</button>
+          <button data-endpoint="/api/access/viewer" class="callBtn">Call Viewer</button>
+          <button id="profileBtn">Get Profile</button>
+        </div>
+      </section>
+
+      <section class="panel">
+        <h2>Response</h2>
+        <pre id="output">No request made yet.</pre>
+      </section>
+    </main>
+    <script src="app.js"></script>
+  </body>
+</html>

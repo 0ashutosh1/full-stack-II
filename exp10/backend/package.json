@@ -1,0 +1,24 @@
+{
+  "name": "exp10-backend",
+  "version": "1.0.0",
+  "description": "Experiment 10 RBAC backend",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "node src/index.js",
+    "start": "node src/index.js",
+    "start:pm2": "pm2 start ecosystem.config.cjs --env production",
+    "pm2:restart": "pm2 restart exp10-rbac-api",
+    "pm2:stop": "pm2 stop exp10-rbac-api",
+    "pm2:delete": "pm2 delete exp10-rbac-api",
+    "pm2:logs": "pm2 logs exp10-rbac-api"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "helmet": "^7.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "morgan": "^1.10.0"
+  }
+}
