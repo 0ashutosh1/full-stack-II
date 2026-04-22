@@ -5,6 +5,12 @@
 - Name: MRIDUL
 - UID: 23BIS70122
 
+## Deployment
+
+| Production URL | Deploy Preview URL |
+|---|---|
+| https://mridul-23bis70122-exp8-fs2.netlify.app | https://69e85cdd2f83294592b53aa6--mridul-23bis70122-exp8-fs2.netlify.app |
+
 ## Objective
 
 This experiment demonstrates performance optimization techniques in React using memoization, callback stabilization, expensive computation caching, and route-based code splitting.

@@ -2,6 +2,12 @@
 
 This experiment demonstrates client-side routing using React Router v6, showcasing how to build modern Single Page Applications with seamless navigation.
 
+## Deployment
+
+| Production URL | Deploy Preview URL |
+|---|---|
+| https://mridul-23bis70122-exp3-fs2.netlify.app | https://69e85c8c4f3101613a99b6e6--mridul-23bis70122-exp3-fs2.netlify.app |
+
 ## 📚 What is SPA Routing?
 
 Single Page Applications (SPAs) use client-side routing to navigate between different views without full page reloads. React Router is the industry-standard library for implementing SPA routing in React.
@@ -217,6 +223,7 @@ After completing this experiment, you'll understand:
 - [React Router v6 Guide](https://reactrouter.com/en/main)
 - [SPA Architecture Best Practices](https://www.sitepoint.com/single-page-application/)
 - [Client-side Routing Deep Dive](https://medium.com/swlh/routing-in-react)
+
 
 ## 🎓 Next Steps
 

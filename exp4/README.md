@@ -2,6 +2,12 @@
 
 This experiment implements centralized state management in a React SPA using Context API + useReducer.
 
+## Deployment
+
+| Production URL | Deploy Preview URL |
+|---|---|
+| https://mridul-23bis70122-exp4-fs2.netlify.app | https://69e85ca27aab2c5cd9237c07--mridul-23bis70122-exp4-fs2.netlify.app |
+
 ## Objective
 
 Build a multi-route SPA where all pages share a common global state.

@@ -2,6 +2,12 @@
 
 This experiment demonstrates the use of **Material-UI (MUI)**, a comprehensive React component library implementing Material Design principles.
 
+## Deployment
+
+| Production URL | Deploy Preview URL |
+|---|---|
+| https://mridul-23bis70122-exp2-fs2.netlify.app | https://69e85c746a057762450d01c7--mridul-23bis70122-exp2-fs2.netlify.app |
+
 ## 📚 What is Material-UI?
 
 Material-UI is a popular React component library that provides pre-built, customizable components following Google's Material Design specification. It offers:

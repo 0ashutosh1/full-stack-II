@@ -2,6 +2,12 @@
 
 This experiment demonstrates performance optimization in a React SPA using lazy loading and code splitting.
 
+## Deployment
+
+| Production URL | Deploy Preview URL |
+|---|---|
+| https://mridul-23bis70122-exp5-fs2.netlify.app | https://69e85cb4fdc3ba4860ba1dfa--mridul-23bis70122-exp5-fs2.netlify.app |
+
 ## Objective
 
 Optimize application performance by reducing initial bundle size and loading route/component code only when required.
