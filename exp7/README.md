@@ -9,6 +9,12 @@
 
 This experiment demonstrates how to build a simple RESTful API using Flask with CRUD operations for a student resource.
 
+## Backend Deployment
+
+| Service | Production URL | Status |
+|---|---|---|
+| exp7 API | Not deployed yet | Pending |
+
 ## Project Structure
 
 ```bash

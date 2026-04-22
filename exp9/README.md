@@ -9,6 +9,12 @@
 
 This experiment demonstrates authentication using Flask with Basic Auth, token-based login, and JWT-protected routes.
 
+## Backend Deployment
+
+| Service | Production URL | Status |
+|---|---|---|
+| exp9 API | Not deployed yet | Pending |
+
 ## Project Structure
 
 ```bash

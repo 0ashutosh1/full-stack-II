@@ -184,8 +184,10 @@ if __name__ == '__main__':
 
 ## Deployment Links
 
-- Customer Service: https://two3bis70027-experiment11.onrender.com
-- Order Service:    https://two3bis70027-experiment11-orderservice.onrender.com
+| Service | Production URL |
+|---|---|
+| Customer Service | https://two3bis70027-experiment11.onrender.com |
+| Order Service | https://two3bis70027-experiment11-orderservice.onrender.com |
 
 ## Working Flow
 

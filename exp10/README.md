@@ -7,9 +7,17 @@
 
 ## Deployment
 
+### Frontend (Netlify)
+
 | Production URL | Deploy Preview URL |
 |---|---|
 | https://mridul-23bis70122-exp10-frontend-fs2.netlify.app | https://69e85cf061398c5be8c45c12--mridul-23bis70122-exp10-frontend-fs2.netlify.app |
+
+### Backend
+
+| Service | Production URL | Status |
+|---|---|---|
+| exp10 RBAC API | Not deployed yet | Pending |
 
 ## Objective
 
