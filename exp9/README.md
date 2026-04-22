@@ -13,7 +13,7 @@ This experiment demonstrates authentication using Flask with Basic Auth, token-b
 
 | Service | Production URL | Status |
 |---|---|---|
-| exp9 API | Not deployed yet | Pending |
+| exp9 API | https://exp9-backend-23bis70122.onrender.com | Live |
 
 ## Project Structure
 

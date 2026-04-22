@@ -7,6 +7,7 @@ from flask_jwt_extended import (
     jwt_required, get_jwt_identity
 )
 import base64
+import os
 
 AUTHOR_NAME = "MRIDUL"
 AUTHOR_UID = "23BIS70122"
@@ -132,4 +133,5 @@ def home():
 
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000, debug=True)
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port)

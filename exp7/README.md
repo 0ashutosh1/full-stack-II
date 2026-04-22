@@ -13,7 +13,7 @@ This experiment demonstrates how to build a simple RESTful API using Flask with 
 
 | Service | Production URL | Status |
 |---|---|---|
-| exp7 API | Not deployed yet | Pending |
+| exp7 API | https://exp7-backend-23bis70122.onrender.com | Live |
 
 ## Project Structure
 

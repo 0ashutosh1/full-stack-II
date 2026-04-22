@@ -17,7 +17,7 @@
 
 | Service | Production URL | Status |
 |---|---|---|
-| exp10 RBAC API | Not deployed yet | Pending |
+| exp10 RBAC API | https://exp10-backend-23bis70122.onrender.com | Live |
 
 ## Objective
 
