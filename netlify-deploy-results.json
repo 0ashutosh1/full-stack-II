@@ -1,0 +1,58 @@
+[
+    {
+        "experiment":  "exp1",
+        "site":  "mridul-23bis70122-exp1-fs2",
+        "url":  "https://mridul-23bis70122-exp1-fs2.netlify.app",
+        "deploy_url":  "https://69e85c5de136845e1b82701b--mridul-23bis70122-exp1-fs2.netlify.app",
+        "logs":  "https://app.netlify.com/projects/mridul-23bis70122-exp1-fs2/deploys/69e85c5de136845e1b82701b"
+    },
+    {
+        "experiment":  "exp2",
+        "site":  "mridul-23bis70122-exp2-fs2",
+        "url":  "https://mridul-23bis70122-exp2-fs2.netlify.app",
+        "deploy_url":  "https://69e85c746a057762450d01c7--mridul-23bis70122-exp2-fs2.netlify.app",
+        "logs":  "https://app.netlify.com/projects/mridul-23bis70122-exp2-fs2/deploys/69e85c746a057762450d01c7"
+    },
+    {
+        "experiment":  "exp3",
+        "site":  "mridul-23bis70122-exp3-fs2",
+        "url":  "https://mridul-23bis70122-exp3-fs2.netlify.app",
+        "deploy_url":  "https://69e85c8c4f3101613a99b6e6--mridul-23bis70122-exp3-fs2.netlify.app",
+        "logs":  "https://app.netlify.com/projects/mridul-23bis70122-exp3-fs2/deploys/69e85c8c4f3101613a99b6e6"
+    },
+    {
+        "experiment":  "exp4",
+        "site":  "mridul-23bis70122-exp4-fs2",
+        "url":  "https://mridul-23bis70122-exp4-fs2.netlify.app",
+        "deploy_url":  "https://69e85ca27aab2c5cd9237c07--mridul-23bis70122-exp4-fs2.netlify.app",
+        "logs":  "https://app.netlify.com/projects/mridul-23bis70122-exp4-fs2/deploys/69e85ca27aab2c5cd9237c07"
+    },
+    {
+        "experiment":  "exp5",
+        "site":  "mridul-23bis70122-exp5-fs2",
+        "url":  "https://mridul-23bis70122-exp5-fs2.netlify.app",
+        "deploy_url":  "https://69e85cb4fdc3ba4860ba1dfa--mridul-23bis70122-exp5-fs2.netlify.app",
+        "logs":  "https://app.netlify.com/projects/mridul-23bis70122-exp5-fs2/deploys/69e85cb4fdc3ba4860ba1dfa"
+    },
+    {
+        "experiment":  "exp6",
+        "site":  "mridul-23bis70122-exp6-fs2",
+        "url":  "https://mridul-23bis70122-exp6-fs2.netlify.app",
+        "deploy_url":  "https://69e85ccc9c15f26590fe2fe6--mridul-23bis70122-exp6-fs2.netlify.app",
+        "logs":  "https://app.netlify.com/projects/mridul-23bis70122-exp6-fs2/deploys/69e85ccc9c15f26590fe2fe6"
+    },
+    {
+        "experiment":  "exp8",
+        "site":  "mridul-23bis70122-exp8-fs2",
+        "url":  "https://mridul-23bis70122-exp8-fs2.netlify.app",
+        "deploy_url":  "https://69e85cdd2f83294592b53aa6--mridul-23bis70122-exp8-fs2.netlify.app",
+        "logs":  "https://app.netlify.com/projects/mridul-23bis70122-exp8-fs2/deploys/69e85cdd2f83294592b53aa6"
+    },
+    {
+        "experiment":  "exp10-frontend",
+        "site":  "mridul-23bis70122-exp10-frontend-fs2",
+        "url":  "https://mridul-23bis70122-exp10-frontend-fs2.netlify.app",
+        "deploy_url":  "https://69e85cf061398c5be8c45c12--mridul-23bis70122-exp10-frontend-fs2.netlify.app",
+        "logs":  "https://app.netlify.com/projects/mridul-23bis70122-exp10-frontend-fs2/deploys/69e85cf061398c5be8c45c12"
+    }
+]

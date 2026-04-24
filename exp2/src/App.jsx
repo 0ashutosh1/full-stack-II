@@ -31,10 +31,10 @@ import {
   FavoriteBorder,
   Favorite,
   Share,
-  FolderIcon,
-  DeleteIcon,
-  InboxIcon,
-  DraftsIcon,
+  Folder,
+  Delete,
+  Inbox,
+  Drafts,
 } from '@mui/icons-material'
 import './App.css'
 
@@ -203,7 +203,7 @@ function App() {
                 <ListItem disablePadding>
                   <ListItemButton>
                     <ListItemIcon>
-                      <InboxIcon />
+                      <Inbox />
                     </ListItemIcon>
                     <ListItemText primary="Inbox" secondary="5 new messages" />
                   </ListItemButton>
@@ -211,7 +211,7 @@ function App() {
                 <ListItem disablePadding>
                   <ListItemButton>
                     <ListItemIcon>
-                      <DraftsIcon />
+                      <Drafts />
                     </ListItemIcon>
                     <ListItemText primary="Drafts" secondary="3 drafts" />
                   </ListItemButton>
@@ -219,7 +219,7 @@ function App() {
                 <ListItem disablePadding>
                   <ListItemButton>
                     <ListItemIcon>
-                      <FolderIcon />
+                      <Folder />
                     </ListItemIcon>
                     <ListItemText primary="Projects" secondary="8 items" />
                   </ListItemButton>
@@ -234,13 +234,13 @@ function App() {
                 Quick Actions
               </Typography>
               <Box sx={{ display: 'flex', flexDirection: 'column', gap: 1 }}>
-                <Button variant="contained" fullWidth startIcon={<FolderIcon />}>
+                <Button variant="contained" fullWidth startIcon={<Folder />}>
                   Create Folder
                 </Button>
                 <Button
                   variant="outlined"
                   fullWidth
-                  startIcon={<DeleteIcon />}
+                  startIcon={<Delete />}
                   color="error"
                 >
                   Delete Items
