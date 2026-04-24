@@ -6,7 +6,7 @@ This experiment demonstrates the use of **Material-UI (MUI)**, a comprehensive R
 
 | Production URL | Deploy Preview URL |
 |---|---|
-| https://mridul-23bis70122-exp2-fs2.netlify.app | https://69e85c746a057762450d01c7--mridul-23bis70122-exp2-fs2.netlify.app |
+| https://kumar-23bis70130-exp2-fs2.netlify.app | https://69e85c746a057762450d01c7--kumar-23bis70130-exp2-fs2.netlify.app |
 
 ## 📚 What is Material-UI?
 

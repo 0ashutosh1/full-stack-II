@@ -1,12 +1,12 @@
 # EXP6 - Handle forms and validations in frontend
 
-## Name - Mridul, UID - 23BIS70122
+## Name - kumar ashutosh, UID - 23bis70130
 
 ## Deployment
 
 | Production URL | Deploy Preview URL |
 |---|---|
-| https://mridul-23bis70122-exp6-fs2.netlify.app | https://69e85ccc9c15f26590fe2fe6--mridul-23bis70122-exp6-fs2.netlify.app |
+| https://kumar-23bis70130-exp6-fs2.netlify.app | https://69e85ccc9c15f26590fe2fe6--kumar-23bis70130-exp6-fs2.netlify.app |
 
 ### 1. Build a professional looking form using MUI components instead of plain HTML, making the UI clean and industry-like.
 

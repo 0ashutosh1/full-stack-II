@@ -4,8 +4,8 @@ import os
 
 app = Flask(__name__)
 
-AUTHOR_NAME = "MRIDUL"
-AUTHOR_UID = "23BIS70122"
+AUTHOR_NAME = "kumar ashutosh"
+AUTHOR_UID = "23bis70130"
 
 # Dummy customer data
 customers = {

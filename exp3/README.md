@@ -6,7 +6,7 @@ This experiment demonstrates client-side routing using React Router v6, showcasi
 
 | Production URL | Deploy Preview URL |
 |---|---|
-| https://mridul-23bis70122-exp3-fs2.netlify.app | https://69e85c8c4f3101613a99b6e6--mridul-23bis70122-exp3-fs2.netlify.app |
+| https://kumar-23bis70130-exp3-fs2.netlify.app | https://69e85c8c4f3101613a99b6e6--kumar-23bis70130-exp3-fs2.netlify.app |
 
 ## 📚 What is SPA Routing?
 

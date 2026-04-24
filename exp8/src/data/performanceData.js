@@ -1,5 +1,5 @@
-export const AUTHOR_NAME = 'MRIDUL'
-export const AUTHOR_UID = '23BIS70122'
+export const AUTHOR_NAME = 'kumar ashutosh'
+export const AUTHOR_UID = '23bis70130'
 
 export const performanceInsights = [
   {

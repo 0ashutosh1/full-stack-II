@@ -2,8 +2,8 @@
 
 ## Author
 
-- Name: MRIDUL
-- UID: 23BIS70122
+- Name: kumar ashutosh
+- UID: 23bis70130
 
 ## Project Overview
 
@@ -13,7 +13,7 @@ This experiment demonstrates how to build a simple RESTful API using Flask with 
 
 | Service | Production URL | Status |
 |---|---|---|
-| exp7 API | https://exp7-backend-23bis70122.onrender.com | Live |
+| exp7 API | https://exp7-backend-23bis70130.onrender.com | Live |
 
 ## Project Structure
 

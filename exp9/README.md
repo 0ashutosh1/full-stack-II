@@ -2,8 +2,8 @@
 
 ## Author
 
-- Name: MRIDUL
-- UID: 23BIS70122
+- Name: kumar ashutosh
+- UID: 23bis70130
 
 ## Project Overview
 
@@ -13,7 +13,7 @@ This experiment demonstrates authentication using Flask with Basic Auth, token-b
 
 | Service | Production URL | Status |
 |---|---|---|
-| exp9 API | https://exp9-backend-23bis70122.onrender.com | Live |
+| exp9 API | https://exp9-backend-23bis70130.onrender.com | Live |
 
 ## Project Structure
 

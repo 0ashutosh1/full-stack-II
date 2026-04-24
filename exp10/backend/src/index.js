@@ -16,8 +16,8 @@ app.use(morgan('dev'))
 app.get('/', (req, res) => {
   res.json({
     experiment: 'EXP10 - Deployment and DevOps',
-    author: 'MRIDUL',
-    uid: '23BIS70122',
+    author: 'kumar ashutosh',
+    uid: '23bis70130',
     features: [
       'Role-based authorization',
       'Docker containerization',

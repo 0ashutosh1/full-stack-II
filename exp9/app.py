@@ -9,8 +9,8 @@ from flask_jwt_extended import (
 import base64
 import os
 
-AUTHOR_NAME = "MRIDUL"
-AUTHOR_UID = "23BIS70122"
+AUTHOR_NAME = "kumar ashutosh"
+AUTHOR_UID = "23bis70130"
 
 app = Flask(__name__)
 app.config["JWT_SECRET_KEY"] = "super-secret-key"

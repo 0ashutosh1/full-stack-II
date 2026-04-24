@@ -6,7 +6,7 @@ This experiment demonstrates performance optimization in a React SPA using lazy 
 
 | Production URL | Deploy Preview URL |
 |---|---|
-| https://mridul-23bis70122-exp5-fs2.netlify.app | https://69e85cb4fdc3ba4860ba1dfa--mridul-23bis70122-exp5-fs2.netlify.app |
+| https://kumar-23bis70130-exp5-fs2.netlify.app | https://69e85cb4fdc3ba4860ba1dfa--kumar-23bis70130-exp5-fs2.netlify.app |
 
 ## Objective
 

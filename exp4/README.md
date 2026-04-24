@@ -6,7 +6,7 @@ This experiment implements centralized state management in a React SPA using Con
 
 | Production URL | Deploy Preview URL |
 |---|---|
-| https://mridul-23bis70122-exp4-fs2.netlify.app | https://69e85ca27aab2c5cd9237c07--mridul-23bis70122-exp4-fs2.netlify.app |
+| https://kumar-23bis70130-exp4-fs2.netlify.app | https://69e85ca27aab2c5cd9237c07--kumar-23bis70130-exp4-fs2.netlify.app |
 
 ## Objective
 

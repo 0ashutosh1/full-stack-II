@@ -6,7 +6,7 @@ This repository is for my Full Stack-II coursework. It will contain the experime
 
 | Production URL | Deploy Preview URL |
 |---|---|
-| https://mridul-23bis70122-exp1-fs2.netlify.app | https://69e85c5de136845e1b82701b--mridul-23bis70122-exp1-fs2.netlify.app |
+| https://kumar-23bis70130-exp1-fs2.netlify.app | https://69e85c5de136845e1b82701b--kumar-23bis70130-exp1-fs2.netlify.app |
 
 ## Current experiment
 

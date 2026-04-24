@@ -2,14 +2,14 @@
 
 ## Author
 
-- Name: MRIDUL
-- UID: 23BIS70122
+- Name: kumar ashutosh
+- UID: 23bis70130
 
 ## Deployment
 
 | Production URL | Deploy Preview URL |
 |---|---|
-| https://mridul-23bis70122-exp8-fs2.netlify.app | https://69e85cdd2f83294592b53aa6--mridul-23bis70122-exp8-fs2.netlify.app |
+| https://kumar-23bis70130-exp8-fs2.netlify.app | https://69e85cdd2f83294592b53aa6--kumar-23bis70130-exp8-fs2.netlify.app |
 
 ## Objective
 
@@ -68,4 +68,4 @@ npm run build
 ## Notes
 
 - The app is structured so `exp8` appears after `exp7` and before `exp9` in the workspace and repository series.
-- The author details are updated to MRIDUL and 23BIS70122 in both code and documentation.
+- The author details are updated to kumar ashutosh and 23bis70130 in both code and documentation.

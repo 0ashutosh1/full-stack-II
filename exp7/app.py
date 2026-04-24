@@ -1,8 +1,8 @@
 from flask import Flask
 from routes.student_routes import student_bp
 
-AUTHOR_NAME = "MRIDUL"
-AUTHOR_UID = "23BIS70122"
+AUTHOR_NAME = "kumar ashutosh"
+AUTHOR_UID = "23bis70130"
 
 def create_app():
     app = Flask(__name__)

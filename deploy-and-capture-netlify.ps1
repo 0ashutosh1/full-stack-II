@@ -2,14 +2,14 @@ $ErrorActionPreference = "Stop"
 
 $root = Split-Path -Parent $MyInvocation.MyCommand.Path
 $targets = @(
-  @{ key = "exp1"; path = "exp1"; type = "vite"; site = "mridul-23bis70122-exp1-fs2" },
-  @{ key = "exp2"; path = "exp2"; type = "vite"; site = "mridul-23bis70122-exp2-fs2" },
-  @{ key = "exp3"; path = "exp3"; type = "vite"; site = "mridul-23bis70122-exp3-fs2" },
-  @{ key = "exp4"; path = "exp4"; type = "vite"; site = "mridul-23bis70122-exp4-fs2" },
-  @{ key = "exp5"; path = "exp5"; type = "vite"; site = "mridul-23bis70122-exp5-fs2" },
-  @{ key = "exp6"; path = "exp6"; type = "vite"; site = "mridul-23bis70122-exp6-fs2" },
-  @{ key = "exp8"; path = "exp8"; type = "vite"; site = "mridul-23bis70122-exp8-fs2" },
-  @{ key = "exp10"; path = "exp10/frontend"; type = "static"; site = "mridul-23bis70122-exp10-frontend-fs2" }
+  @{ key = "exp1"; path = "exp1"; type = "vite"; site = "kumar-23bis70130-exp1-fs2" },
+  @{ key = "exp2"; path = "exp2"; type = "vite"; site = "kumar-23bis70130-exp2-fs2" },
+  @{ key = "exp3"; path = "exp3"; type = "vite"; site = "kumar-23bis70130-exp3-fs2" },
+  @{ key = "exp4"; path = "exp4"; type = "vite"; site = "kumar-23bis70130-exp4-fs2" },
+  @{ key = "exp5"; path = "exp5"; type = "vite"; site = "kumar-23bis70130-exp5-fs2" },
+  @{ key = "exp6"; path = "exp6"; type = "vite"; site = "kumar-23bis70130-exp6-fs2" },
+  @{ key = "exp8"; path = "exp8"; type = "vite"; site = "kumar-23bis70130-exp8-fs2" },
+  @{ key = "exp10"; path = "exp10/frontend"; type = "static"; site = "kumar-23bis70130-exp10-frontend-fs2" }
 )
 
 $results = @()

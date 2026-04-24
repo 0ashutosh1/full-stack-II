@@ -1,9 +1,9 @@
-# EXPERIMENT 13 - 23BIS70122 (Student CRUD API)
+# EXPERIMENT 13 - 23bis70130 (Student CRUD API)
 
 ## Author
 
-- Name: MRIDUL
-- UID: 23BIS70122
+- Name: kumar ashutosh
+- UID: 23bis70130
 
 Flask + MySQL REST API for managing student records.
 

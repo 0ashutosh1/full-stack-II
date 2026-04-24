@@ -2,8 +2,8 @@
 
 ## Author
 
-- Name: MRIDUL
-- UID: 23BIS70122
+- Name: kumar ashutosh
+- UID: 23bis70130
 
 ## Deployment
 
@@ -11,13 +11,13 @@
 
 | Production URL | Deploy Preview URL |
 |---|---|
-| https://mridul-23bis70122-exp10-frontend-fs2.netlify.app | https://69e85cf061398c5be8c45c12--mridul-23bis70122-exp10-frontend-fs2.netlify.app |
+| https://kumar-23bis70130-exp10-frontend-fs2.netlify.app | https://69e85cf061398c5be8c45c12--kumar-23bis70130-exp10-frontend-fs2.netlify.app |
 
 ### Backend
 
 | Service | Production URL | Status |
 |---|---|---|
-| exp10 RBAC API | https://exp10-backend-23bis70122.onrender.com | Live |
+| exp10 RBAC API | https://exp10-backend-23bis70130.onrender.com | Live |
 
 ## Objective
 
